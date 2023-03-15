@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(244, 243, 242);
+}
+.border-login{
+    border-radius: 25px;
+    border: 1px solid black;
+}
+
+.image{
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+.submit-login{
+    margin-bottom: 70px;
+    color: white;
+}
+.input{
+    background-color: rgb(244, 243, 242);
+    border-radius: 15px;
+    border: 1px solid black;
+}

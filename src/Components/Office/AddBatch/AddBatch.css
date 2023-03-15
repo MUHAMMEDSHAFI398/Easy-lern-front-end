@@ -1,0 +1,23 @@
+.subjectDiv {
+    margin: auto;
+    border-radius: 25px;
+    border: 1px solid black;
+
+}
+
+.p-tag {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.subjectAndTeacher {
+
+    border-radius: 10px;
+    width: 400px;
+    height: 40px;
+    background-color: rgb(206, 206, 205);
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+
+}

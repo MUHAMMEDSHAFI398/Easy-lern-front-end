@@ -1,0 +1,31 @@
+/* .hi{
+    margin-left: 350px;
+    width: fit-content;
+    block-size: fit-content;
+} */
+
+.headChilds{
+
+    border-radius: 10px;
+    width: 290px;
+    height: 90px;
+    background-color: white;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    margin-top: 8px;
+}
+.flexChildDashbord{
+    width: 550px;
+    height: 352px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+
+}
+.quickBtns{
+    height: 50px;
+    border-radius: 10px;
+    
+}
+.quickBtns:hover{
+    cursor: pointer;
+    color: white;
+    background-color: green;
+}

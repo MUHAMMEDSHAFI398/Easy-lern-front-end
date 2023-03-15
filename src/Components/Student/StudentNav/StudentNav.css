@@ -1,0 +1,28 @@
+.studentNavParent{
+    background-color: rgb(244, 243, 242);
+    box-shadow: 0 0 10px -2px ;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+.firstChild{
+    margin-left: 35px;
+}
+
+.non-hilites{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    
+}
+.hilites{
+    text-decoration: none;
+    color: orange;
+    font-weight: bold;
+}
+.hilites:hover{
+    color: orange;
+}
+.non-hilites:hover{
+    color: orange;
+}

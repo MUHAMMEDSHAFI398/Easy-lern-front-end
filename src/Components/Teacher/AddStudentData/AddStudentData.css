@@ -1,0 +1,78 @@
+
+.flexItemsStyle{
+    width: 600px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+  
+}
+.inputMonthData{
+    border-radius: 10px;
+    width: 420px;
+    height: 39px;
+    border: 1px solid black;
+    background-color: rgb(244, 243, 242);
+}
+.monthParentDivss{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 20px;
+   
+}
+.childOfMonthlyDatas{
+    width: 193px;
+    height: 160px;
+    background-color: rgb(58, 70, 70);
+    border-radius: 20px;
+    color: white;
+    margin-top: 15px;
+    
+}
+.monthlyData{
+    margin-bottom: 30px;
+}
+.monthName{
+    font-size: 20px;
+    font-weight: 700;
+}
+.numberworkingdays{
+    color: white;
+    margin-top: -10px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.subjectFixedinput{
+    border-radius: 10px;
+    width: 350px;
+    height: 39px;
+    border: 1px solid black;
+    background-color: rgb(244, 243, 242);
+}
+.markInput{
+    border-radius: 10px;
+    width: 145px;
+    height: 39px;
+    border: 1px solid black;
+    background-color: rgb(244, 243, 242);
+}
+.headingAddMark{
+    padding-left: 90px;
+    padding-right: 90px;
+}
+.attendanceSubmitbtn{
+    border-radius: 10px;
+    width: 420px;
+    height: 39px;
+    color: white;
+    margin-top: 50px;
+
+}
+
+.markSubmitbtn{
+    border-radius: 10px;
+    width: 503px;
+    height: 39px;
+    color: white;
+    margin-top: 10px;
+
+}

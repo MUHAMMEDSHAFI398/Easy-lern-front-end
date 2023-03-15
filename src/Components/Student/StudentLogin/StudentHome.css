@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(244, 243, 242);
+}
+.bordr-login{
+    border-radius: 25px;
+    border: 1px solid black;
+}
+
+.imagetag{
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+.submitLogin{
+    margin-bottom: 70px;
+    color: white;
+}
+.inputLogin{
+    background-color: rgb(244, 243, 242);
+    border-radius: 15px;
+    border: 1px solid black;
+}

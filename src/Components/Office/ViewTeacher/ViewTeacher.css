@@ -1,0 +1,31 @@
+.buttonTop {
+    display: flex;
+    margin-top: 100px;
+}
+
+.buttonDiv {
+    border-radius: 13px;
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    width: 150px;
+    height: 40px;
+}
+
+.block-button {
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+.unblock-button {
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+.i-tags {
+    cursor: pointer;
+}

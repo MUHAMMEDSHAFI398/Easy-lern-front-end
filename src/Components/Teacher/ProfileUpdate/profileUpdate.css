@@ -1,0 +1,25 @@
+.input-tags{
+    border-radius: 10px;
+    width: 295px;
+    height: 39px;
+    border: 1px solid black;
+    background-color: rgb(244, 243, 242);
+    margin-left: 8px;   
+    margin-right: 8px; 
+}
+.border-line{
+    width: fit-content;
+    block-size: fit-content;
+    margin-bottom: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 130px;
+  
+}
+.parentTop{
+    margin-top: 125px;
+}
+.formClass{
+    border: 1px solid black;
+    border-radius: 14px;
+}

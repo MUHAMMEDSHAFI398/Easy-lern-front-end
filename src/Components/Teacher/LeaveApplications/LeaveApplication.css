@@ -1,0 +1,55 @@
+.mainDiv{
+    padding-top: 130px;
+}
+
+.flexItem{
+    width: 600px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 15px;
+  
+}
+.leave-leter{
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: underline;
+}
+.inputLeave{
+    border: none;
+    background-color: rgb(244, 243, 242);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    width: 570px;
+    height: 370px;
+    border-radius: 15px;
+    resize: none;
+}
+.modal {
+    display: block;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(97, 94, 94, 0.2);
+    word-wrap: break-word;
+
+  }
+  
+  .modal-content {
+    background-color: #fefefe;
+    margin: 5% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 40%;
+  }
+
+  .btnsubmt{
+    color: white;
+    border-radius: 10px;
+    border: 1px solid;
+    width: 570px;
+    height: 35px;
+}
+  

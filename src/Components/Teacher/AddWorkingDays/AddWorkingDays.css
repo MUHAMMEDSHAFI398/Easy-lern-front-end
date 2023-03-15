@@ -1,0 +1,52 @@
+.workDiv{
+    border: 1px solid black;
+    border-radius: 14px;
+    padding: 25px;
+}
+.workInpt{
+    border-radius: 10px;
+    width: 320px;
+    height: 39px;
+    border: 1px solid black;
+    background-color: rgb(244, 243, 242);
+}
+.titlestyle{
+    text-decoration: underline;
+    margin-bottom: 25px;
+}
+.submtbtn{
+    border-radius: 10px;
+    width: 320px;
+    height: 39px;
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    margin-top: 32px;
+}
+.monthParentDivs{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 190px;
+}
+.childOfMonthlyData{
+    width: 193px;
+    height: 60px;
+    background-color: rgb(58, 70, 70);
+    border-radius: 20px;
+    color: white;
+    margin-top: 15px;
+    
+}
+.monthlyData{
+    margin-bottom: 30px;
+}
+.monthName{
+    font-size: 20px;
+    font-weight: 700;
+}
+.numberworkingDays{
+    color: white;
+    margin-top: -18px;
+    font-size: 17px;
+    font-weight: 700;
+}

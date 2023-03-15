@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(245, 242, 240);
+     
+}
+
+.parentNav {
+    padding: 15px;
+    background-color: rgb(245, 242, 240);
+    min-height: fit-content;
+    background-image: url('../../../../public/images/wat2.jpeg');
+    background-size: 100% ;
+    position: fixed;
+    width: 100%;
+    box-shadow: 0 0 10px -2px ;
+    z-index: 1;
+}
+
+.Nav-title{
+    color: rgb(53, 40, 40);
+    font-family: 'Times New Roman', Times, serif;
+      
+}
+.Nav-sub-title{
+    font-weight: bold;
+    color: rgb(92, 85, 85);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+/* Style the button */
+.LoginButton {
+    background-color: green;
+    border: 1px solid green;
+    color: white;
+    font-weight: bold;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    width: 90px;
+    margin-top: 8px;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    right: auto;
+    transform: translateX(calc(-100% + 90px));
+    background-color: rgb(206, 206, 205);
+    min-width: max-content;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+    color: black;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: white;
+}

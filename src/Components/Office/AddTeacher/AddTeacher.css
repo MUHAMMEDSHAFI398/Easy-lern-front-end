@@ -1,0 +1,36 @@
+*{
+    max-width: 100%;
+
+}
+body{
+    background-color: rgb(244, 243, 242);
+   
+ }
+
+.input-tag{
+    border-radius: 10px;
+    width: 320px;
+    height: 39px;
+    border: 1px solid black;
+    background-color: rgb(244, 243, 242);
+    margin-left: 8px;   
+    margin-right: 8px; 
+}
+.border-body{
+    border-radius: 25px;
+    border: 1px solid black;
+    margin-top: 50px;
+    width: fit-content;
+    block-size: fit-content;
+    margin-bottom: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.imagedisplay{
+    width: 170px;
+    height: 170px;
+    border-radius: 190px;
+}
+
+
+
