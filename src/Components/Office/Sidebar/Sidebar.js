@@ -49,7 +49,7 @@ function Sidebar() {
               <CDBSidebarMenuItem style={{ color: 'black' }} icon="users">Students</CDBSidebarMenuItem>
             </NavLink>
 
-            <NavLink  to="/office/payments" target="_blank" activeclassname="activeClicked">
+            <NavLink  to="/office/payments" activeclassname="activeClicked">
               <CDBSidebarMenuItem style={{ color: 'black' }} icon="exclamation-circle">Payments</CDBSidebarMenuItem>
             </NavLink>
 
