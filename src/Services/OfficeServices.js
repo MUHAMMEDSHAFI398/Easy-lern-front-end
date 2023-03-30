@@ -16,7 +16,7 @@ export const addTeacherAPI = (data,headers) => {
     return axios.post('/office/add-teacher', data, headers)
 }
 export const officeLoginAPI = (data) => {
-    return axios.post('office/login', data)
+    return axios.post('/office/login', data)
 }
 export const handleGetStudentAPI = (id,headers) => {
     return axios.get(`/office/student/${id}`, headers)
