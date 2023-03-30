@@ -14,6 +14,7 @@ function App() {
       <Router>
         <Routes>
 
+          
           <Route path='/' element={<Landing />} />
           <Route path='/office/*' element={<AdminVerification><OfficeRoutes /></AdminVerification>} />
           <Route path='/teacher/*' element={<TeacherRoutes/>} />
