@@ -14,6 +14,7 @@ import EditBatch from "../Pages/Office/EditBatch";
 import EachStudent from '../Pages/Office/EachStudent';
 import TeacherLeaveApplications from '../Pages/Office/TeacherLeaveApplications';
 import Payments from '../Pages/Office/Payments';
+import AdminVerification from "../Varification/AdminVerification";
 
 const OfficeRoutes = () => {
     return (
